@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://dawnlike.github.io/csb-7m61x6/static/js/main.59bb606c.chunk.js",
+    "main.js.map": "https://dawnlike.github.io/csb-7m61x6/static/js/main.59bb606c.chunk.js.map",
+    "runtime-main.js": "https://dawnlike.github.io/csb-7m61x6/static/js/runtime-main.0abe019d.js",
+    "runtime-main.js.map": "https://dawnlike.github.io/csb-7m61x6/static/js/runtime-main.0abe019d.js.map",
+    "static/js/2.970564a0.chunk.js": "https://dawnlike.github.io/csb-7m61x6/static/js/2.970564a0.chunk.js",
+    "static/js/2.970564a0.chunk.js.map": "https://dawnlike.github.io/csb-7m61x6/static/js/2.970564a0.chunk.js.map",
+    "index.html": "https://dawnlike.github.io/csb-7m61x6/index.html",
+    "precache-manifest.a7c2e284ba2b486f2d893a4eb8123973.js": "https://dawnlike.github.io/csb-7m61x6/precache-manifest.a7c2e284ba2b486f2d893a4eb8123973.js",
+    "service-worker.js": "https://dawnlike.github.io/csb-7m61x6/service-worker.js",
+    "static/js/2.970564a0.chunk.js.LICENSE": "https://dawnlike.github.io/csb-7m61x6/static/js/2.970564a0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0abe019d.js",
+    "static/js/2.970564a0.chunk.js",
+    "static/js/main.59bb606c.chunk.js"
+  ]
+}
